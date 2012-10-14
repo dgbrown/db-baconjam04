@@ -14,7 +14,7 @@ package
 		
 		public function Main():void 
 		{
-			super( 640, 480, Play, 1, 60, 31, false );
+			super( 640, 480, Menu, 1, 60, 31, false );
 		}
 		
 	}
